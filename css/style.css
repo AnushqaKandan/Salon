@@ -74,22 +74,6 @@ body {
     width: 25%;
   }
 
-  
-  a {
-    color: black;
-  }
-  
-  a:visited {
-    color: black;
-  }
-  
-  a:hover {
-    color: brown;
-  }
-  
-  a:active {
-    color: brown;
-  }
   .head {
     text-shadow: 0 0 10px white;
   }
